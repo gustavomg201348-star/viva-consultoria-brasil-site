@@ -8,7 +8,7 @@ window.SITE_CONFIG = {
   whatsappHref: "",
   email: "victoria.saantana@gmail.com",
   address: "Av. Moacir de Matos, 412 - Centro, Caratinga/MG - CEP 35.300-047",
-  domain: "[DOMÍNIO A CONFIRMAR]",
+  domain: "vivaconsultoriabrasil.com.br",
   services: [
     {
       icon: "badge-dollar-sign",
